@@ -1,0 +1,7 @@
+name: smolensk
+dependencies:
+- pandas
+- numpy
+- ipywidgets
+- pip:
+  - git+git://github.com/rkalyanapurdue/folium.git
