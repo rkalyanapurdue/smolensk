@@ -3,5 +3,6 @@ dependencies:
 - pandas
 - numpy
 - ipywidgets
+- nvector
 - pip:
   - git+git://github.com/rkalyanapurdue/folium.git
