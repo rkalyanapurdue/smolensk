@@ -5,3 +5,4 @@ dependencies:
 - ipywidgets
 - pip:
   - git+git://github.com/rkalyanapurdue/folium.git
+  - nvector
